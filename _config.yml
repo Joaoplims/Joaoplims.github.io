@@ -1,11 +1,11 @@
 # Site settings
 title: João Paulo
 email: joaop.lims@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "game development, technical art, unity3D, shader development, XR application development"
+url: https://joaoplims.github.io/
+description: "My devfolio website"
+keywords: "portfolio,game development, technical art, unity3D, shader development, XR application development"
 skills: "Game Developer - Technical Artist - XR Application Developer"
-meta_author: LastName FirstName
+meta_author: Paulo de Lima João
 
 # Google webmaster tools
 google_verify:
@@ -32,28 +32,20 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Joao Paulo 2022
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: likedin
+    url: https://www.linkedin.com/in/joaop-lims/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Joaoplims
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Belo Horizonte, Minas Gerais, Brazil
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
