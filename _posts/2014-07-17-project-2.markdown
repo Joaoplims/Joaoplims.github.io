@@ -8,4 +8,5 @@ project-date: May 2022
 client: Arca Laboratório Criativo e Experimental
 category: App Development | Location Based Experience
 description: Toada application under development, exclusively for the Android operating system. It is a digital platform for the collection of spoken poetry, in its first version, distributed at specific points throughout the Praça da Estação Cultural Zone in Belo Horizonte, Brazil
+see-more-link: https://drive.google.com/file/d/16vmHjcqteZCtEhQ4zdxkasmvpgdYzybe/view
 ---
