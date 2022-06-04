@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Joao Paulo
-  location: Location
-  social: Around the Web
+  #location: Location
+  social: Social networks
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,8 +44,8 @@ social:
     url: https://github.com/Joaoplims
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Belo Horizonte, Minas Gerais, Brazil
+#address:
+#  - line: Belo Horizonte, Minas Gerais, Brazil
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
