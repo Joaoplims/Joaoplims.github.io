@@ -5,7 +5,7 @@ date: 2023-04-13
 img: OrbiXRCase.png
 alt: OrbiXR logotipo
 project-date: April 2023
-client: Gaz Games Artes LTDA
+client: <a href="https://www.gazgames.com.br">Gaz Games Artes LTDA</a>
 category: App Development | XR Experience
 description: OrbiXR is a platform composed of a virtual reality application for the Meta Quest 2 and 3 auxiliary solutions for the promotion of residential developments. Currently, the application is used by major residential construction companies in Brazil such as MRV&CO and CAC Engenharia.
 see-more-link: https://www.orbixr.com.br/
