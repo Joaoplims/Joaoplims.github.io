@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2023-04-01
+img: MosaicCase.png
+alt: De ponta a ponta Mosaic Fertilizantes game ScreenShot
+project-date: April 2023
+category: Game Development
+description: We developed for Mosaic Fertilizantes a racing game in the style of Subway Surfer, with incredible scenarios that represent the entire process, from mining to agricultural use, of Mosaic's products. In this game, players, through the use of an Xbox controller, control their characters to dodge obstacles and collect necessary items and the word MOSAIC, in a short period of time.
+The project was developed to be an attraction at a fair and was a success with visitors!
+see-more-link: https://gazgames.com.br/project/mosaic-runner/
+---
